@@ -1,0 +1,576 @@
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\bin\Debug\SKC.exe
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\bin\Debug\SKC.pdb
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.AboutBox.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.EditProjectForm2.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.InsertProjectForm2.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.ProjectsForm2.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\WCF.DevManParametersForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.Form1.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.DBOptionsForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.devManConnectorForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.ParametersViewForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.TunerPanelsForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.CurrentProjectForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.InsertProjectForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.InsertStageForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.ProjectsForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.EditProjectForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.ProjectStagesForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.StageViewForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.EditParameterForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.EditTechParameterForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.ParametersListForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.TunerForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.UnblockForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.KoefForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.Properties.Resources.resources
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.exe
+C:\Users\Developer\Documents\Проекты\SKCII\DataBase\obj\x86\Debug\SKC.pdb
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\bin\Debug\SKC.exe
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\bin\Debug\SKC.pdb
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.exe
+C:\Users\Developer\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.pdb
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\bin\Debug\SKC.exe
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\bin\Debug\SKC.pdb
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.exe
+C:\Users\Alexander\Documents\Проекты\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_121228 1242\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1700\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130204 1830\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130205 1700\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130209 1400\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1605\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130218 1030\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130221 0950\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130225 1300\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\bin\Debug\SKC.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\bin\Debug\SKC.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm2.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\DisplayComponent.DigitDisplay.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\GraphicComponent.GraphicsSheet.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\WCF.DevManParametersForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.Form1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.KRSForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.DBOptionsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeFormDB.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.devManConnectorForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ShowTimeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.GraphicsTurnerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.EditParameterPanelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ParametersViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.TunerPanelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ParameterCheckerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.CurrentProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.InsertProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.InsertStageForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.EditProjectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ProjectsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ProjectStagesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.RgrsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.StageViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.BlockCommandForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ParametersListForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.ResetterOfVolumeForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.TunerForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.EditTechParameterForm1.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.UnblockForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.KoefForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.LoadAppForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\SKCII\SKC\obj\x86\Debug\SKC.Properties.Resources.resources

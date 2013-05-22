@@ -1,0 +1,264 @@
+<projects>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>01.02.2013 - Тестирование СКЦ2 на обрыв соединения с АК. Связь по кабелю.</job>
+    <created>01.02.2013 12:26:13</created>
+    <worked>05.02.2013 19:04:14</worked>
+    <db_name>db_2013_02_01_12_26_13</db_name>
+    <actived>False</actived>
+    <dir>2013_02_01_12_26_13</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>05.02.2013 19:04:14</start_time>
+        <finish_time>05.02.2013 19:05:25</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан 1</job>
+    <created>15.02.2013 16:18:29</created>
+    <worked>01.01.0001 0:00:00</worked>
+    <db_name>db_2013_02_15_16_18_29</db_name>
+    <actived>False</actived>
+    <dir>2013_02_15_16_18_29</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>01.01.0001 0:00:00</start_time>
+        <finish_time>31.12.9999 23:59:59</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан 2</job>
+    <created>15.02.2013 16:38:01</created>
+    <worked>01.01.0001 0:00:00</worked>
+    <db_name>db_2013_02_15_16_38_01</db_name>
+    <actived>False</actived>
+    <dir>2013_02_15_16_38_01</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>01.01.0001 0:00:00</start_time>
+        <finish_time>31.12.9999 23:59:59</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан 3</job>
+    <created>15.02.2013 16:43:55</created>
+    <worked>01.01.0001 0:00:00</worked>
+    <db_name>db_2013_02_15_16_43_55</db_name>
+    <actived>False</actived>
+    <dir>2013_02_15_16_43_55</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>01.01.0001 0:00:00</start_time>
+        <finish_time>31.12.9999 23:59:59</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан 4</job>
+    <created>18.02.2013 10:45:15</created>
+    <worked>01.01.0001 0:00:00</worked>
+    <db_name>db_2013_02_18_10_45_15</db_name>
+    <actived>False</actived>
+    <dir>2013_02_18_10_45_15</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>01.01.0001 0:00:00</start_time>
+        <finish_time>31.12.9999 23:59:59</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан 5</job>
+    <created>18.02.2013 13:31:24</created>
+    <worked>01.01.0001 0:00:00</worked>
+    <db_name>db_2013_02_18_13_31_24</db_name>
+    <actived>False</actived>
+    <dir>2013_02_18_13_31_24</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>01.01.0001 0:00:00</start_time>
+        <finish_time>31.12.9999 23:59:59</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан 6</job>
+    <created>18.02.2013 13:38:37</created>
+    <worked>01.01.0001 0:00:00</worked>
+    <db_name>db_2013_02_18_13_38_37</db_name>
+    <actived>False</actived>
+    <dir>2013_02_18_13_38_37</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>01.01.0001 0:00:00</start_time>
+        <finish_time>31.12.9999 23:59:59</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан 7</job>
+    <created>18.02.2013 13:44:42</created>
+    <worked>01.01.0001 0:00:00</worked>
+    <db_name>db_2013_02_18_13_44_42</db_name>
+    <actived>False</actived>
+    <dir>2013_02_18_13_44_42</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>01.01.0001 0:00:00</start_time>
+        <finish_time>31.12.9999 23:59:59</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан 8</job>
+    <created>18.02.2013 13:54:15</created>
+    <worked>01.01.0001 0:00:00</worked>
+    <db_name>db_2013_02_18_13_54_15</db_name>
+    <actived>False</actived>
+    <dir>2013_02_18_13_54_15</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>01.01.0001 0:00:00</start_time>
+        <finish_time>31.12.9999 23:59:59</finish_time>
+      </stage>
+    </stages>
+  </Project>
+  <Project>
+    <place>Ореол</place>
+    <bush>СКЦ2</bush>
+    <well>Тестирование</well>
+    <job>Пан </job>
+    <created>18.02.2013 16:41:45</created>
+    <worked>21.02.2013 14:52:36</worked>
+    <db_name>db_2013_02_18_16_41_45</db_name>
+    <actived>True</actived>
+    <dir>2013_02_18_16_41_45</dir>
+    <stages>
+      <stage>
+        <stage_name>Этап #1</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>21.02.2013 14:52:36</start_time>
+        <finish_time>21.02.2013 14:52:45</finish_time>
+      </stage>
+      <stage>
+        <stage_name>Этап работы 2</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>21.02.2013 14:52:45</start_time>
+        <finish_time>21.02.2013 14:52:57</finish_time>
+      </stage>
+      <stage>
+        <stage_name>Этап работы 3</stage_name>
+        <stage_volume>0</stage_volume>
+        <koef>1</koef>
+        <plan_consumption>0</plan_consumption>
+        <plan_volume>0</plan_volume>
+        <plan_pressure>0</plan_pressure>
+        <plan_density>0</plan_density>
+        <start_time>21.02.2013 14:52:57</start_time>
+        <finish_time>21.02.2013 14:53:05</finish_time>
+      </stage>
+    </stages>
+  </Project>
+</projects>
